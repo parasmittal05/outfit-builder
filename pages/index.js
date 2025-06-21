@@ -13,7 +13,7 @@ export default function Home() {
   const items = [
     // Tops
     { name: 'Top 1', src: '/clothes/tops/shirt.png' },
-    { name: 'Top 2', src: '/clothes/tops/top.jpg' },
+    { name: 'Top 2', src: '/clothes/tops/top.png' },
     { name: 'Top 2', src: '/clothes/tops/top1.png' },
     { name: 'Top 3', src: '/clothes/tops/top2.png' },
     { name: 'Top 4', src: '/clothes/tops/top3.png' },
