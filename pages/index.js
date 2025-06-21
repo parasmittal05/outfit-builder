@@ -15,8 +15,8 @@ export default function Home() {
     { name: 'Top 1', src: '/clothes/tops/shirt.png' },
     { name: 'Top 2', src: '/clothes/tops/top.jpg' },
     { name: 'Top 2', src: '/clothes/tops/top1.png' },
-    { name: 'Top 3', src: '/clothes/tops/top2.jpg' },
-    { name: 'Top 4', src: '/clothes/tops/top3.jpg' },
+    { name: 'Top 3', src: '/clothes/tops/top2.png' },
+    { name: 'Top 4', src: '/clothes/tops/top3.png' },
     { name: 'Top 5', src: '/clothes/tops/top4.png' },
     { name: 'Top 6', src: '/clothes/tops/top5.png' },
 
